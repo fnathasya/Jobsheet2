@@ -1,3 +1,2 @@
 # Jobsheet2
-Dasar Pemrograman
-hiii this is my new repository in the collage
+A collection of Jobsheet 2 programming code from the basic programming course semester 1 using the Java programming language
